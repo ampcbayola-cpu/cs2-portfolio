@@ -1,2 +1,5 @@
 # cs2-portfolio
-yay (in an unsure way)
+Ada Mary Phoebe C. Bayola
+8 - Dahlian
+
+LINKS : 
