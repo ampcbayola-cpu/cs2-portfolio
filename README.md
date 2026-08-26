@@ -1,4 +1,4 @@
-# cs2-portfolio
+# CS2_PORTFOLIO
 ## Ada Mary Phoebe C. Bayola 
 
 ## 8 - Dahlia
