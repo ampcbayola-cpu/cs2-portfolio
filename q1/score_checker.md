@@ -27,6 +27,7 @@ What information does the program need?
 **Minimum valid score:**
 
 > 1
+
 **Maximum valid score:**
 
 > 100
@@ -87,7 +88,7 @@ END
 # Part 4 - Clean Code Implementation
 ## Source code
 Insert your source code.
-[Score Checker Source Code](q1/score_checker.py)
+[score_checker.py](q1/score_checker.py)
 
 ---
 # Part 5 - Testing
@@ -97,7 +98,7 @@ Insert your source code.
 | 2 | 0 | Minimum boundary | "Needs Improvement" | "Needs Improvement" | Working |
 | 3 | 74 | Minimum boundary | "Needs Improvement" | "Needs Improvement" | Working |
 | 4 | 75 | Below Satisfactory | "Needs Improvement" | "Needs Improvement" | Working |
-| 5 | 80 | Satisfactory boundary | "Satisfactory"| ""Saftisfactory" Working |
+| 5 | 80 | Satisfactory boundary | "Satisfactory"| ""Saftisfactory" | Working |
 | 6 | 90 | Very Satisfactory boundary | "Very Satisfactory" | "Very Satisfactory" | "Very Satisfactory" | Working |
 | 7 | 100 | Outstanding boundary | "Outstanding" | "Outstanding" | Working |
 | 8 | 101 | Above maximum |"invalid score"| "invalid score"| Working |
