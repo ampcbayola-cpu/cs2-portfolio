@@ -88,7 +88,7 @@ END
 # Part 4 - Clean Code Implementation
 ## Source code
 Insert your source code.
-[score_checker.py](q1/score_checker.py)
+[score_checker.py](score_checker.py)
 
 ---
 # Part 5 - Testing
