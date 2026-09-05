@@ -45,7 +45,7 @@ What condition will you use to determine whether the score is valid?
 
 ## Multiple Decision Paths
 Explain how the program decides which classification should be displayed.
-> with the elif chain<img width="2199" height="1681" alt="whycomsci - Main" src="https://github.com/user-attachments/assets/28eafe4d-67ba-43f9-9c05-3db507aa1c2c" />
+> with the elif chain
 
 ---
 # Part 2 - Flowchart
@@ -93,14 +93,14 @@ Insert your source code.
 # Part 5 - Testing
 | Test | Input | Purpose | Expected Output | Actual Output | Result |
 |---|---:|---|---|---|---|
-| 1 | -1 | Below minimum | | | |
-| 2 | 0 | Minimum boundary | | | |
-| 3 | 74 | Below Satisfactory boundary | | | |
-| 4 | 75 | Satisfactory boundary | | | |
-| 5 | 80 | Very Satisfactory boundary | | | |
-| 6 | 90 | Outstanding boundary | | | |
-| 7 | 100 | Maximum boundary | | | |
-| 8 | 101 | Above maximum | | | |
+| 1 | -1 | Below minimum | "invalid score"| "invalid score"| Working |
+| 2 | 0 | Minimum boundary | "Needs Improvement" | "Needs Improvement" | Working |
+| 3 | 74 | Minimum boundary | "Needs Improvement" | "Needs Improvement" | Working |
+| 4 | 75 | Below Satisfactory | "Needs Improvement" | "Needs Improvement" | Working |
+| 5 | 80 | Satisfactory boundary | "Satisfactory"| ""Saftisfactory" Working |
+| 6 | 90 | Very Satisfactory boundary | "Very Satisfactory" | "Very Satisfactory" | "Very Satisfactory" | Working |
+| 7 | 100 | Outstanding boundary | "Outstanding" | "Outstanding" | Working |
+| 8 | 101 | Above maximum |"invalid score"| "invalid score"| Working |
 
 ---
 
