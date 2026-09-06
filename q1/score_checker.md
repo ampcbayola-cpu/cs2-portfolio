@@ -1,5 +1,6 @@
 # Clean Decision Code Makeover: Student Score Checker
 **Name:** Ada Mary Phoebe C. Bayola
+
 **Section:** 8 - Dahlia
 ---
 ## Activity Overview
