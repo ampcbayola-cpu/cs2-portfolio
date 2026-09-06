@@ -99,7 +99,7 @@ Insert your source code.
 | 3 | 74 | Minimum boundary | "Needs Improvement" | "Needs Improvement" | Working |
 | 4 | 75 | Below Satisfactory | "Needs Improvement" | "Needs Improvement" | Working |
 | 5 | 80 | Satisfactory boundary | "Satisfactory"| ""Saftisfactory" | Working |
-| 6 | 90 | Very Satisfactory boundary | "Very Satisfactory" | "Very Satisfactory" | "Very Satisfactory" | Working |
+| 6 | 90 | Very Satisfactory boundary | "Very Satisfactory" | "Very Satisfactory" | Working |
 | 7 | 100 | Outstanding boundary | "Outstanding" | "Outstanding" | Working |
 | 8 | 101 | Above maximum |"invalid score"| "invalid score"| Working |
 
