@@ -71,24 +71,36 @@ Insert your flowchart below.
 Create a pseudocode showing the logic of your program.
 
 START
+
 INPUT score
+
 IF score < 0 OR score > 100 THEN
+
 DISPLAY "Invalid score."
+
 ELIF score >= 90 THEN
+
 DISPLAY "Outstanding"
+
 ELIF score >= 80 THEN
+
 DISPLAY "Very Satifactory"
+
 ELIF score >= 75 THEN
+
 DISPLAY "Satisfactory"
+
 ELIF score < 75 THEN
+
 DISPLAY "Needs Improvement"
+
 ....
 END
 
 ---
 # Part 4 - Clean Code Implementation
 ## Source code
-Insert your source code.
+
 [score_checker.py](score_checker.py)
 
 ---
@@ -99,7 +111,7 @@ Insert your source code.
 | 2 | 0 | Minimum boundary | "Needs Improvement" | "Needs Improvement" | Working |
 | 3 | 74 | Minimum boundary | "Needs Improvement" | "Needs Improvement" | Working |
 | 4 | 75 | Below Satisfactory | "Needs Improvement" | "Needs Improvement" | Working |
-| 5 | 80 | Satisfactory boundary | "Satisfactory"| ""Saftisfactory" | Working |
+| 5 | 80 | Satisfactory boundary | "Satisfactory"| ""Satisfactory" | Working |
 | 6 | 90 | Very Satisfactory boundary | "Very Satisfactory" | "Very Satisfactory" | Working |
 | 7 | 100 | Outstanding boundary | "Outstanding" | "Outstanding" | Working |
 | 8 | 101 | Above maximum |"invalid score"| "invalid score"| Working |
@@ -114,7 +126,7 @@ Insert your source code.
 ### 3. Which test helped you understand boundary conditions the most?
 > the range limitation from 1-100
 ### 4. Did any of your tests initially fail? If yes, what did you change in your program?
-> yes, indention in the elif parts because, I forgot how it worked so I had many syntax errors.
+> yes, indention in the elif parts because I forgot how it worked & how I also didn't need any, so I had many syntax errors.
 
 ---
 
