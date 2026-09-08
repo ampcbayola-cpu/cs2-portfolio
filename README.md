@@ -11,4 +11,8 @@
 
 >[Hello.py](q1/Hello.py)
 
+>[AgeInTenYears.py](q1/AgeInTenYears.py)
+
+>[2num4operations.py](q1/2num4operations.py)
+
 >[score_checker.py](q1/score_checker.py)
