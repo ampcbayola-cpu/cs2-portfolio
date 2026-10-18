@@ -20,7 +20,7 @@
 
 ### 2nd Quarter
 
->[Canteen Purchase Calculator](q2/problem1.py)
+>[Canteen Purchase Calculator.py](q2/problem1.py)
 
 
 
