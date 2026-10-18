@@ -3,7 +3,7 @@
 
 ## 8 - Dahlia
 
-![SealBanner](<iframe src="https://assets.pinterest.com/ext/embed.html?id=1033928026941339590" height="188" width="236" frameborder="0" scrolling="no" ></iframe>)
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=1033928026941339590" height="188" width="236" frameborder="0" scrolling="no" ></iframe>
 
 *links for submission down below ↓* ⋆.˚ ᡣ𐭩 .𖥔˚
 
