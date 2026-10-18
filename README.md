@@ -16,3 +16,8 @@
 >[2num4operations.py](q1/2num4operations.py)
 
 >[score_checker.py](q1/score_checker.py)
+
+
+### 2nd Quarter
+
+>[Canteen Purchase Calculator](q2/problem1.py)
