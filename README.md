@@ -3,7 +3,7 @@
 
 ## 8 - Dahlia
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=1033928026941339590" height="188" width="236" frameborder="0" scrolling="no" ></iframe>
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 *links for submission down below ↓* ⋆.˚ ᡣ𐭩 .𖥔˚
 
