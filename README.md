@@ -3,8 +3,6 @@
 
 ## 8 - Dahlia
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-
 *links for submission down below ↓* ⋆.˚ ᡣ𐭩 .𖥔˚
 
 ### 1st Quarter
@@ -23,3 +21,8 @@
 ### 2nd Quarter
 
 >[Canteen Purchase Calculator](q2/problem1.py)
+
+
+
+# thx for checking ( ◜‿◝ )♡
+<img width="675" height="250" alt="морской котик гиф" src="https://github.com/user-attachments/assets/3c5aa380-c701-45ef-ac09-39ab29cbbc99" />
