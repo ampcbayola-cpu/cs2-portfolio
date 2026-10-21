@@ -6,10 +6,33 @@ Program Requirements
 5. Display the total cost and the customer's change.
 6. If payment is insufficient, display the additional amount needed instead of a negative change.
 
-Documentation Questions
-Explain in your python file through comments:
-1. What does each function do?
-2. What is the difference between the parameters price and quantity and the actual arguments passed
-to the function?
-3. Where is the returned total stored, and how is it reused?
-4. Why is it useful to separate total calculation from change calculation?
+-------- PROGRAM ---------
+def calculate_total(price, quantity):
+  return price * quantity
+# calculates & returns the total cost from the items bought 
+# price and quantity are placeholder variables (parameters)
+# return is for the time you will print the final receipt
+
+def calculate_change(payment, total):
+  return payment - total  
+# how much change is given back to the customer
+# payment is a placeholder variables
+
+price = float(input("Enter items price: "))
+quantity = int(input("Enter how many/quantity: "))
+payment = float(input("Enter payment: "))
+# these are the arguments and these are the ones that will go into their respective values after having the input from the user. 
+
+total = calculate_total(price, quantity)
+change = calculate_change(payment, total)
+
+if change >= 0:
+  print(f"Your change is PHP{change:.2f}")
+else:
+  print("You need to pay", change * -1, "more")
+
+print("Your total is: ", total)
+print("Your change is:", change)
+
+# Its useful to separate the total and the change to improve code organiztion & how easy it'll be to read and ix for future errors
+
