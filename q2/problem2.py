@@ -1,4 +1,4 @@
-#**Program Requirements**
+#Program Requirements
 #1. Ask the user to enter three scores between 0 and 100.
 #2. Ask for the number of completed tasks, from 0 to 5.
 #3. Use `calculate_average()` to compute the average.
