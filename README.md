@@ -28,3 +28,6 @@
 
 # thx for checking ( ◜‿◝ )♡
 <img width="675" height="250" alt="морской котик гиф" src="https://github.com/user-attachments/assets/3c5aa380-c701-45ef-ac09-39ab29cbbc99" />
+
+~ej lp ob jbbcvtp Boh mppqipmf tb qbh tvcnju vtjoh mjol... NFHB TPSSZ QP 
+(zft J vtfe bo pomjof usbotmbups gps uijt)~
