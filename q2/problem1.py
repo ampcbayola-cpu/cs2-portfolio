@@ -1,12 +1,13 @@
-Program Requirements
-1. Ask for the item's price, quantity, and payment.
-2. Pass the price and quantity as arguments to calculate_total().
-3. Store the returned total in a variable.
-4. Pass the payment and the computed total to calculate_change().
-5. Display the total cost and the customer's change.
-6. If payment is insufficient, display the additional amount needed instead of a negative change.
+#Program Requirements
+#1. Ask for the item's price, quantity, and payment.
+#2. Pass the price and quantity as arguments to calculate_total().
+#3. Store the returned total in a variable.
+#4. Pass the payment and the computed total to calculate_change().
+#5. Display the total cost and the customer's change.
+#6. If payment is insufficient, display the additional amount needed instead of a negative change.
 
--------- PROGRAM ---------
+# -------- PROGRAM ---------
+
 def calculate_total(price, quantity):
   return price * quantity
 # calculates & returns the total cost from the items bought 
