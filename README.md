@@ -21,7 +21,8 @@
 ### 2nd Quarter
 
 >[Canteen Purchase Calculator.py](q2/problem1.py)
->[Student Performance Evaluator](q2/problem2.py)
+
+>[Student Performance Evaluator.py](q2/problem2.py)
 
 
 
