@@ -1,8 +1,12 @@
-#problem description : 
-#- create a program that computes a students' average score from 3 assessments 
-# and determines the students performnace category and eligibility for a practice
-# challenge.
+#**Program Requirements**
+#1. Ask the user to enter three scores between 0 and 100.
+#2. Ask for the number of completed tasks, from 0 to 5.
+#3. Use `calculate_average()` to compute the average.
+#4. Pass the returned average as an argument to `get_performance()`.
+#5. Pass the average and number of completed tasks to `is_eligible()`.
+#6. Display the average, performance category, and eligibility result.
 
+# -------- PROGRAM ---------
 
 def calculate_average(score1, score2, score3):
   return (score1 + score2 + score3) / 3
