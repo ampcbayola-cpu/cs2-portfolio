@@ -34,5 +34,10 @@ else:
 print("Your total is: ", total)
 print("Your change is:", change)
 
-# Its useful to separate the total and the change to improve code organiztion & how easy it'll be to read and ix for future errors
+# Its useful to separate the total and the change to improve code organiztion & how easy it'll be to read and fix for future errors
 
+
+
+
+# big credit goes to the helpful volunteers & jessie beside me to know what to do in this program
+# (Arcilla, Remodo, basta mga nag code sa harap... I just wrote it down am sorry big credit talaga sainyo #Ilabyu)
