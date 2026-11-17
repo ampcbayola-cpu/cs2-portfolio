@@ -24,6 +24,8 @@
 
 >[Student Performance Evaluator.py](q2/problem2.py)
 
+>[Programming Exercises.py](q2/Programming_Exercises.py)
+
 
 
 # thx for checking ( ◜‿◝ )♡
