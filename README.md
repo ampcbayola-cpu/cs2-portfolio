@@ -7,24 +7,26 @@
 
 ### 1st Quarter
 
->[Bayola_AdaMaryPhoebe_Distance.py](q1/Bayola_AdaMaryPhoebe_Distance.py)
+>[Bayola_AdaMaryPhoebe_Distance](q1/Bayola_AdaMaryPhoebe_Distance.py)
 
->[Hello.py](q1/Hello.py)
+>[Hello](q1/Hello.py)
 
->[AgeInTenYears.py](q1/AgeInTenYears.py)
+>[AgeInTenYears](q1/AgeInTenYears.py)
 
->[2num4operations.py](q1/2num4operations.py)
+>[2num4operations](q1/2num4operations.py)
 
->[score_checker.py](q1/score_checker.py)
+>[score_checker](q1/score_checker.py)
 
 
 ### 2nd Quarter
 
->[Canteen Purchase Calculator.py](q2/problem1.py)
+>[Canteen Purchase Calculator](q2/problem1.py)
 
->[Student Performance Evaluator.py](q2/problem2.py)
+>[Student Performance Evaluator](q2/problem2.py)
 
->[Programming Exercises.py](q2/Programming_Exercises.py)
+>[Programming Exercises](q2/Programming_Exercises.py)
+
+>[Programming Exercises 2](q2/Programming_Exercises2.py)
 
 
 
